@@ -125,7 +125,7 @@ form h5 {
 
 footer img {
     width: 50%;
-    height: 100vh;
+    height: 50vh;
     display: inline-block;
 }
 
@@ -135,8 +135,11 @@ footer .footerInfo{
     right: 0;
 }
 
-footer .moreInfo2 {
+footer .secondInfoDiv{
     display: inline-block;
+    width: 50%;
+    height: 100vh;
+    right: 0;
 }
 
 footer{
